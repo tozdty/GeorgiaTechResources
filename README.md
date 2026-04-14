@@ -15,7 +15,7 @@ Contribute by submitting an issue or making a pr!
 
 ## 📅 Course Planning
 - [GT Scheduler](https://www.gt-scheduler.org) – Go-to tool for building your class schedule visually and easily
-- [Degree Roadmap](https://degree-roadmap.gatech.edu/) – Official GT tool for mapping out your degree plan semester by semester
+- [Degree Roadmap](https://degree-roadmap.gatech.edu/) – tool for mapping out your degree plan semester by semester
 - [Coursicle](https://www.coursicle.com) – Get notified when a class opens up
 - [Course Critique](https://critique.gatech.edu) - Look up Course Grades and Professor GPA
 - [Grade Distribution (LITE)](https://lite.gatech.edu/lite_script/dashboards/grade_distribution.html) – View historical grade distributions by course and instructor
