@@ -1,3 +1,4 @@
+```markdown
 # Georgia Tech Resources 🐝
 
 A curated list of resources, tools, and scripts useful for Georgia Tech students. Whether you're planning your schedule, tracking classes, or looking for housing and study help — this repo has you covered.  
@@ -7,12 +8,13 @@ Contribute by submitting an issue or making a pr!
 ---
 
 ## 💼 Career / Internships
-- [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home) - Apply for internships that are only available to Georgia Tech Students
-- [C2D2](https://career.gatech.edu) - Career Discovery and Development center for career coaching, recruiting events, and internship/job resources
+- [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home) – Apply for internships that are only available to Georgia Tech students
+- [C2D2](https://career.gatech.edu) – Career Discovery and Development center for career coaching, recruiting events, and internship/job resources
 
 ## 💬 Communities
 - [r/gatech](https://www.reddit.com/r/gatech/)
 - [r/gatech Wiki](https://www.reddit.com/r/gatech/wiki/index/) – Community-maintained FAQ and resource index
+- [r/gatech FAQ](https://www.reddit.com/r/gatech/wiki/faqs/) – Frequently asked questions compiled by the r/gatech community
 - [GT Transfers Discord](https://discord.gg/CACBDaJeTy)
 - [GT Student Wiki](https://gt-student-wiki.org/mediawiki/index.php/Main_Page) – Community-maintained wiki covering courses, professors, campus life, and more
 - [SGA Resources](https://www.sga.gatech.edu/resources/) – Student Government Association index of student services and resources
@@ -23,13 +25,15 @@ Contribute by submitting an issue or making a pr!
 - [Degree Roadmap](https://degree-roadmap.gatech.edu/) – Official GT tool for mapping out your degree plan semester by semester
 - [DegreeWorks](https://degreeworks.gatech.edu) – Degree audit tool to track progress toward graduation requirements
 - [Navigate360](https://gatech.navigate.eab.com) – Academic advising and appointment scheduling platform
-- [Coursicle](https://www.coursicle.com) – Get notified when a class opens up
+- [Coursicle](https://www.coursicle.com) – Get notified when a class opens up (general, not GT-specific)
+- [NotifyGT](https://notifygt.com/) – Get notified when a seat opens in a GT course (GT-specific)
 - [Course Critique](https://critique.gatech.edu) – Look up course grades and professor GPA
 - [Grade Distribution (LITE)](https://lite.gatech.edu/lite_script/dashboards/grade_distribution.html) – View historical grade distributions by course and instructor
 - [GT Syllabus Repository](https://syllabus.gatech.edu/) – Browse past syllabi by course
 - [GT Course Tree](https://devarsirawal.com/gt-course-tree/) – Visualize prerequisite chains for GT courses
 - [GT Course Vis](https://www.gt-course-vis.com/) – Another prerequisite and course relationship visualizer
 - [CourseGraph](https://justinhtay.github.io/coursegraph/) – Interactive graph of GT course prerequisites
+- [Grouch](https://github.com/JIceberg/grouch) – CLI tool for scraping OSCAR and automating course registration (power users)
 
 ## 🗣️ Clubs
 - [GT Engage](https://gatech.campuslabs.com/engage) – View all clubs and their upcoming events
@@ -52,6 +56,7 @@ Contribute by submitting an issue or making a pr!
 - [Communication Center](https://communicationcenter.gatech.edu/) – Free writing and communication assistance for GT students
 - [Library Research Help](https://library.gatech.edu/help) – Research consultations, citation help, and subject librarian support
 - [Library Gadget Lending](https://library.gatech.edu/spaces-technology/gadgets) – Borrow cameras, calculators, cables, and other tech equipment from the GT Library
+- [RAT Library](https://drive.google.com/drive/folders/0B7hFWe5LmarScWIwX1ZHSmxnaW8?resourcekey=0-Hs-VzXny7jC5Jz-y9weQEg&usp=drive_link) – Recently Acquired Tech (RAT) students' community-compiled archive of old GT exams and study materials
 - [Financial Aid](https://finaid.gatech.edu) – Scholarships, grants, loans, and work-study information
 
 ## 🖨️ Printing & Campus Resources
@@ -76,7 +81,7 @@ Contribute by submitting an issue or making a pr!
 - [BuzzPort](https://buzzport.gatech.edu) – Main GT student portal
 - [GT Passport](https://passport.gatech.edu/) – Manage your GT account and guest access
 - [BuzzCard](https://www.buzzcard.gatech.edu/) – Manage your BuzzCard, dining dollars, and building access
-- [Workday](https://wd5.myworkday.com/gatech/d/home.htmld) – Staff HR and payroll portal
+- [Workday](https://wd5.myworkday.com/gatech/d/home.htmld) – Staff HR and payroll portal *(staff)*
 - [TechWorks](https://techworks.gatech.edu) – Employee portal for HR and administrative tasks *(staff)*
 - [SUMS](https://sums.gatech.edu/) – Shared User Management System for lab and equipment access
 
@@ -84,3 +89,4 @@ Contribute by submitting an issue or making a pr!
 - TransLoc – App to track campus bus locations
 - [GT Bus Schedules](https://www.pts.gatech.edu/shuttles/stinger/) – View GT Stinger bus schedules
 - [Biking Resources](https://pts.gatech.edu/bikes) – Campus bike programs, racks, and repair stations
+```
